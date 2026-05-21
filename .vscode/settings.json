@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/sqlite-jdbc-3.53.0.0.jar",
+        "lib/javafx-sdk-21.0.10/lib/**/*.jar"
+    ]
+}
